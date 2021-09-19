@@ -229,7 +229,7 @@ Data on U.S. Transportation Security Administration (TSA) monthly statistics on 
 
 ### COVID-19
 
-[Bank policies during COVID](https://www.bis.org/publ/work934.htm) 
+[Bank policies during COVID](https://www.bis.org/publ/work934.htm)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-14-edition/)</font>
 ```
 Dataset of a number of announcements made by banks throughout the pandemic.
@@ -848,7 +848,7 @@ Dataset of variety of soil properties from across the globe.
 
 ### GIS
 
-* [OpenTopography](https://portal.opentopography.org/dataCatalog)
+* [OpenTopography](https://portal.opentopography.org/dataCatalog)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-02-03-edition/)</font>
 
 ### Historical
