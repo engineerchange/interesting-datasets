@@ -208,12 +208,6 @@ Dataset of animal rescues in London from 2009 to present.
 Dataset of foreign labor requests through the Department of Labor (DOL).
 ```
 
-[Incarceration infections, deaths, testing](https://github.com/nytimes/covid-19-data/tree/master/prisons)  
-<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-21-edition/)</font>
-```
-Dataset of 2,000+ prison facilities and their COVID-19 information (infections, deaths, testing).
-```
-
 [NYC housing lottery](https://github.com/thecityny/housing-lottery-data)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-24-edition/)</font>
 ```
@@ -271,6 +265,12 @@ Dataset of flights observed during COVID. From OpenSky Network.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-14-edition/)</font>
 ```
 Dataset of survey of 2M from April 2020 on COVID-19 and how it affects households.
+```
+
+[Incarceration infections, deaths, testing](https://github.com/nytimes/covid-19-data/tree/master/prisons)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-21-edition/)</font>
+```
+Dataset of 2,000+ prison facilities and their COVID-19 information (infections, deaths, testing).
 ```
 
 [School enrollment in 2019 and 2020](https://purl.stanford.edu/zf406jp4427)  
