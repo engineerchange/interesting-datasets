@@ -31,7 +31,7 @@ Dataset of light visible on Earth at night (1992 to present). From Defense Meter
 ### GIS
 
 [Building footprints](https://sites.research.google/open-buildings/)  
-<font size="1">- [Africa](https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html)</font>
+<font size="1">- [Africa](https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html)</font>  
 <font size="1">- [Canada](https://github.com/Microsoft/CanadianBuildingFootprints)</font>  
 <font size="1">- [New Zealand](https://medium.com/on-location/an-open-building-outlines-dataset-for-new-zealand-eef8b558ef7a)</font>  
 <font size="1">- [U.S.](https://github.com/Microsoft/USBuildingFootprints)</font>  
