@@ -202,6 +202,13 @@ Dataset on job flow metrics that track worker's movements between areas.
 Dataset of animal rescues in London from 2009 to present.
 ```
 
+[Fire data from UK](https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables)  
+- [related article](http://nymag.com/selectall/2015/11/jamie-olivers-bad-idea-is-still-starting-fires.html)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2018-02-14-edition/)</font>
+```
+Dataset of various fire related datasets in UK.
+```
+
 [Foreign labor requests](https://www.dol.gov/agencies/eta/foreign-labor/performance)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-28-edition/)</font>
 ```
@@ -437,6 +444,12 @@ Dataset of wind turbines offshore from 14 countries between 2015-2019.
 
 ### Food
 
+[Agricultural census](https://quickstats.nass.usda.gov/?source_desc=CENSUS)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-12-23-edition/)</font>
+```
+Census of agricultura commodities provided by USDA.
+```
+
 [NYPL Menus](http://menus.nypl.org/data)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-11-25-edition/)</font>
 ```
@@ -449,6 +462,14 @@ Dataset of menus provided by the New York Public Library from 1850s to present.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-02-10-edition/)</font>
 ```
 Dataset of hyperlocal results in Biden/Trump 2020 election.
+```
+
+[Congressional districts (historical)](https://osf.io/mjvkb/)  
+- [Constituency-Level Elections Archive](http://www.electiondataarchive.org/index.html)  
+- [article](https://www.nature.com/articles/sdata2017108)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2018-02-14-edition/)</font>
+```
+Dataset of historical congressional districts in U.S.
 ```
 
 [Congressional newsletters](https://www.lindseycormack.com/dcinbox-data-downloads)  
@@ -603,8 +624,14 @@ Dataset of 166k+ post offices operating in the U.S. from 1639 to 2000.
 Dataset of estimates of number of building units/structures in U.S. historically from 1810 to 2015.
 ```
 
-[Working hours](https://ourworldindata.org/working-hours)  
+[Witch trials in Europe](https://github.com/JakeRuss/witch-trials)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-07-edition/)</font>
+```
+Dataset of witch trials in Europe.
+```
+
+[Working hours](https://ourworldindata.org/working-hours)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2020-10-28-edition/)</font>
 ```
 Dataset of the number of hours that people work.
 ```
@@ -656,6 +683,19 @@ Dataset of ~150k newsletter links across 6 months. Created by Winning the Intern
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-02-10-edition/)</font>
 ```
 Dataset of Super Bowl ads between 2000 and 2020. From FiveThirtyEight.
+```
+
+[Wikipedia article popularity](https://dumps.wikimedia.org/other/pagecounts-raw/)  
+- Alternate: [http://stats.grok.se/](http://stats.grok.se/)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-12-23-edition/)</font>
+```
+Dataset of Wikipedia article clicks.
+```
+
+[Wikipedia page rank](https://github.com/athalhammer/danker/#DBpedia_PageRank)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2016-11-16-edition/)</font>
+```
+Dataset of Wikipedia page rank/importance.
 ```
 
 ### Retail
@@ -802,6 +842,13 @@ Dataset of aging and life history of animals.
 Dataset of bats in the city of Amsterdam.
 ```
 
+[Bats into U.S.](https://docs.google.com/spreadsheets/d/1gtfdz6cqoenEsuauOPDy8mKJFernuy2CFde89ukPNtE/edit)  
+- [article](http://www.strangebio.com/post/170249749601/conservationists-to-americans-please-stop-buying)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2018-02-14-edition/)</font>
+```
+Dataset of bats brought into U.S. from 2016 to 2017.
+```
+
 [Beans images](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-31-edition/)</font>
 ```
@@ -850,6 +897,40 @@ Dataset of 7.2km road survey. Roadkill data from Tropical Andes.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-03-edition/)</font>
 ```
 Dataset of variety of soil properties from across the globe.
+```
+
+[Tree inventory](https://www.fia.fs.fed.us/)  
+- [data](https://apps.fs.usda.gov/fia/datamart/datamart.html)  
+- [user guide](https://www.fia.fs.fed.us/library/database-documentation/index.php)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2019-02-13-edition/)</font>
+```
+Dataset of variety of soil properties from across the globe.
+```
+
+
+Tree species  
+- [basal tree area (circa 2000s)](https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0013)  
+- [Little distribution maps](https://www.fs.fed.us/nrs/atlas/littlefia/)  
+- [Elbert Little tree atlas](https://github.com/wpetry/USTreeAtlas)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-12-23-edition/)</font>
+```
+Shapefiles of tree atlas of U.S.
+```
+
+[Trees in NYC](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Blockface-Data/ju3b-rwpy)  
+- [1995 and 2005 surveys](https://data.cityofnewyork.us/browse?q=Street%20Tree%20Census)  
+- [results](https://www.nycgovparks.org/trees/treescount)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-12-23-edition/)</font>
+```
+Decennial survey of trees in NYC.
+```
+
+[Trees in Europe](https://figshare.com/collections/A_high-resolution_pan-European_tree_occurrence_dataset/3288407)  
+- [tabular](https://figshare.com/articles/Tree_occurrences_at_species_level/3497885)  
+- [geospatial](https://figshare.com/articles/Occurrences_location_shapefile/3497891)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2017-01-25-edition/)</font>
+```
+Dataset on trees in Europe.
 ```
 
 ## Sources {.tabset}
