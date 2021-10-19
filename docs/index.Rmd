@@ -435,6 +435,14 @@ Dataset of food-related greenhouse gas (GHG) emissions from 1990 to 2015.
 Dataset of wind turbines offshore from 14 countries between 2015-2019.
 ```
 
+### Food
+
+[NYPL Menus](http://menus.nypl.org/data)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-11-25-edition/)</font>
+```
+Dataset of menus provided by the New York Public Library from 1850s to present.
+```
+
 ### Government/Politics
 
 [2020 Election Map (hyperlocal)](https://github.com/TheUpshot/presidential-precinct-map-2020)  
