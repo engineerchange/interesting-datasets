@@ -767,6 +767,12 @@ Dataset on all 40 seasons of Survivor contestants and detail on the episodes, vo
 
 ### Transporation
 
+[City signs dataset](https://github.com/mattdzugan/Control-Cities/tree/master/report/data/cities)  
+<font size="1">- Source: [data-is-plural](https://observablehq.com/@ambassadors/mapping-the-cities-of-us-highway-signs?collection=@ambassadors/30daymapchallenge)</font>
+```
+Dataset of city signs and where they point to. Gathered using Google Maps script.
+```
+
 [Passenger Train Routes through Europe](https://docs.google.com/spreadsheets/d/12deGLMuX3u-mUaHGlLT0-TXIGZnQ-NILCt6NRA4s0pU/edit#gid=588529542)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-05-12-edition/)</font>
 
