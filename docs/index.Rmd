@@ -708,6 +708,13 @@ Dataset of Wikipedia page rank/importance.
 Database of ATF inspection reports from 2015 to 2017.
 ```
 
+[Gun - concealed carry license db](https://www.openicpsr.org/openicpsr/project/149062/version/V1/view?path=/openicpsr/149062/fcr:versions/V1&type=project)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-03-edition/)</font>
+```
+Concealed carry gun license database
+```
+
+
 
 [Retail Gasoline Prices](https://www.eia.gov/petroleum/gasdiesel/gas_proc-methods.php)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-06-09-edition/)</font>
@@ -899,6 +906,12 @@ Dataset of 7.2km road survey. Roadkill data from Tropical Andes.
 Dataset of variety of soil properties from across the globe.
 ```
 
+[Spider taxonomy](https://wsc.nmbe.ch/dataresources)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-03-edition/)</font>
+```
+Dataset of spider taxonomy.
+```
+
 [Tree inventory](https://www.fia.fs.fed.us/)  
 - [data](https://apps.fs.usda.gov/fia/datamart/datamart.html)  
 - [user guide](https://www.fia.fs.fed.us/library/database-documentation/index.php)  
@@ -939,6 +952,14 @@ Dataset on trees in Europe.
 
 * [OpenTopography](https://portal.opentopography.org/dataCatalog)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-02-03-edition/)</font>
+
+### Government
+
+* [FOIA libraries](https://library.shu.edu/FOIA-Libraries)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-03-edition/)</font>
+```
+List of FOIA libraries.
+```
 
 ### Historical
 
