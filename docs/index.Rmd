@@ -880,7 +880,7 @@ Dataset of illegal sales and ownership of cheetahs over decade.
 Dataset/scraping instructions for O'Reilly illustrations of 1k+ animals.
 ```
 
-[Fishing surveys in Great Lakes](*http://www.glfc.org/great-lakes-databases.php)  
+[Fishing surveys in Great Lakes](http://www.glfc.org/great-lakes-databases.php)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-07-edition/)</font>
 ```
 Dataset of details on fish in the Great Lakes. By Great Lakes Fishery Commission.
