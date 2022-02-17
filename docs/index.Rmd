@@ -28,7 +28,7 @@ Dataset of forest elephant movements from 50 locations.
 Dataset of light visible on Earth at night (1992 to present). From Defense Meterological Satellite Program and then Visible Infrared Imaging Radiometer Suite.
 ```
 
-### GIS
+### GIS (geospatial, maps)
 
 [Building footprints](https://sites.research.google/open-buildings/)  
 <font size="1">- [Africa](https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html)</font>  
@@ -46,6 +46,11 @@ Dataset of building footprints in Africa, Canada, N.Z., U.S.
 Dataset of coal mines in India.
 ```
 
+[Commuting zones](https://data.humdata.org/dataset/commuting-zones)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-19-edition/)</font>
+```
+USDA Economic Research Service, Meta and other groups develop commuting zones to group counties.
+```
 
 [Drought Monitor data in the U.S.](https://droughtmonitor.unl.edu/Data.aspx)
 ```
@@ -77,6 +82,12 @@ Dataset of lightning strokes per km2 on daily/monthly frequencies. From World Wi
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-07-14-edition/)</font>
 ```
 Dataset of migrant deaths in Arizona, including details about the individual, location, date found, etc.
+```
+
+[Moon geologic map](https://astrogeology.usgs.gov/search/map/Moon/Geology/Unified_Geologic_Map_of_the_Moon_GIS_v2)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-08-edition/)</font>
+```
+Geologic map of the moon
 ```
 
 [New York City languages](https://languagemap.nyc/Data)  
@@ -141,10 +152,23 @@ Dataset from textual analysis of 11 firms in 81 countries and various themes of 
 Dataset providing semi-structured data relationships of words across different languages.
 ```
 
+[Loanwords](https://wold.clld.org/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-02-edition/)</font>
+```
+World Loanword Database includes 1k+ words loaned between languages.
+```
+
 [News quotations](https://zenodo.org/record/4277311)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-17-edition/)</font>
 ```
 Dataset of quotations in English news articles from 2008 to 2020.
+```
+
+[Research article n-grams](https://archive.org/details/GeneralIndex)
+<font size="1">- Tool: [Yake (Python)](https://pypi.org/project/yake/)</font><br/>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-01-edition/)</font>
+```
+General Index derives 355 billion n-grams from 107M+ journal articles.
 ```
 
 [Website data (Common Crawl)](https://commoncrawl.org/2021/03/february-march-2021-crawl-archive-now-available/)  
@@ -154,7 +178,19 @@ Dataset of quotations in English news articles from 2008 to 2020.
 Datasets of 2.7B pages on the web. Includes almost 300M rows of information extracted from the website using schema markup.
 ```
 
+[Wordle corpus](https://docs.google.com/spreadsheets/d/1KR5lsyI60J1Ek6YgJRU2hKsk4iAOWvlPLUWjAZ6m8sg/edit#gid=0)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-19-edition/)</font>
+```
+Dataset of 2.3k Wordle words.
+```
+
 ### Time Series
+
+[Recreation.gov Reservations](https://ridb.recreation.gov/download)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-10-edition/)</font>
+```
+Large datasets of reservations made on RIDB/Recreation.gov between 2006 to present.
+```
 
 [Philadelphia Post Office Records (1748-52)](https://repository.upenn.edu/mead/29/)
 ```
@@ -171,12 +207,26 @@ Dataset of mail sent from 1748 to 1752. Names, addresses, weight, fee.
 Dataset on drawings and text by Leonardo da Vinci.
 ```
 
+[Werner's Nomenclature of Colors](https://docs.google.com/spreadsheets/d/10w7UebIDqN6ChEpBwLDQmAgVZZhLtKvnrLeNnBjJmsc/edit)
+<font size="1">- Guidebook: [archive.org](https://archive.org/details/gri_c00033125012743312)</font>
+<font size="1">- Wiki: [link](https://en.wikipedia.org/wiki/Werner%27s_Nomenclature_of_Colours)</font>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-17-edition/)</font>
+```
+U.S. Geological Survey (USGS) National Minerals Information Center dataset about mineral production, by state in U.S., country, and commodity.
+```
+
 ### Business
 
 [CEO dismissals](https://zenodo.org/record/4618103)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-21-edition/)</font>
 ```
 Dataset on 1.4k+ CEO dismissals from 1992-2018.
+```
+
+[CEO economic ideologies](https://github.com/bastianherre/global-leader-ideologies)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-29-edition/)</font>
+```
+Global Leader Ideologies, a dataset from 1945 to 2020, on the economic ideologies of chief executives.
 ```
 
 [Terms of Service](https://github.com/ambanum/CGUs-versions/releases)  
@@ -192,6 +242,18 @@ Dataset of Terms of Service documents across 170+ websites, apps, etc.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-05-26-edition/)</font>
 ```
 Dataset on job flow metrics that track worker's movements between areas.
+```
+
+[Erasmus exchange](https://data.europa.eu/data/datasets?locale=en&catalog=eac&query=erasmus&page=1&sort=issued%2Bdesc,%20relevance%2Bdesc,%20title.en%2Basc)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-09-edition/)</font>
+```
+Dataset on the movement of students, staff, trainees in the European Union as part of the Erasmus+ exchange program.
+```
+
+[Immigrant populations in 1900](https://github.com/stacker-media/data/blob/main/1900-census-immigrant-state/1900-census-immigrant-pop-state.csv)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-02-edition/)</font>
+```
+Dataset of immigrant populations in 1900 for each state/territory.
 ```
 
 ### Civic Services
@@ -229,6 +291,12 @@ Data on U.S. Transportation Security Administration (TSA) monthly statistics on 
 ```
 
 ### COVID-19
+
+[Alcohol policies during COVID](https://alcoholpolicy.niaaa.nih.gov/resource/covid-19/98)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-08-edition/)</font>
+```
+Restrictions on alcohol/bar, etc. by state during the pandemic, from January 2020 to September 2021.
+```
 
 [Bank policies during COVID](https://www.bis.org/publ/work934.htm)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-14-edition/)</font>
@@ -280,6 +348,18 @@ Dataset of survey of 2M from April 2020 on COVID-19 and how it affects household
 Dataset of 2,000+ prison facilities and their COVID-19 information (infections, deaths, testing).
 ```
 
+[News layoffs during COVID](https://www.cjr.org/widescreen/covid-cutback-tracker.php)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-29-edition/)</font>
+```
+Data on layoffs in news organizations between March 2020 and August 2021.
+```
+
+[Prisons in Europe](https://github.com/dw-data/covid-prisons)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-22-edition/)</font>
+```
+Details on COVID-19 deaths, tests, etc. of prisoners and prison staff in Europe.
+```
+
 [School enrollment in 2019 and 2020](https://purl.stanford.edu/zf406jp4427)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-08-11-edition/)</font>
 ```
@@ -316,6 +396,12 @@ Dataset of vaccinations in Switzerland and Argentina.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-01-20-edition/)</font>
 ```
 Dataset on people charged for Capitol siege on January 6, 2021.
+```
+
+[Civil asset forfeiture (by police)](https://ij.org/report/policing-for-profit-3/policing-for-profit-data/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-05-edition/)</font>
+```
+Institute for Justice's Policing for Profit reports the property forfeited by police across dozens of states.
 ```
 
 [Eastern State Penitentiary admissions](https://repository.upenn.edu/mead/22/)  
@@ -380,6 +466,12 @@ Datasets of police misconduct settlements from 31/50 cities. From FiveThirtyEigh
 Datasets of private prisons from 2016 to present.
 ```
 
+[Sewage data, city](https://github.com/biobotanalytics/covid19-wastewater-data)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-26-edition/)</font>
+```
+Biobot Analytics's weekly estimates of COVID-19 in wastewater in 31 communities.
+```
+
 ### Cyber
 
 [.gov domains](https://github.com/GSA/data/tree/master/dotgov-domains)  
@@ -388,13 +480,37 @@ Datasets of private prisons from 2016 to present.
 Datasets of all registered .gov domains
 ```
 
+[HTTPS](https://github.com/duckduckgo/smarter-encryption)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-09-edition/)</font>
+```
+DuckDuckGo Smarter Encryption project's dataset on the 31M+ websites with https internet encryption.
+```
+
+[Tech support scams](https://github.com/choozn/PopupDB-Data/) [(full data)](https://popupdb.org/downloads)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-19-edition/)</font>
+```
+PopUpDB Project's datasets on 11k+ popups.
+```
+
 [Web trackers](https://github.com/duckduckgo/tracker-radar)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-02-03-edition/)</font>
 ```
 Datasets of 36k+ third-party domains and associated web trackers. From DuckDuckGo.
 ```
 
+[Zero day vulnerabilities](https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-15-edition/)</font>
+```
+Google's Project Zero with 200 entries going back to 2014.
+```
+
 ### Economics
+
+[Banking cris intervention](https://som.yale.edu/faculty-research-centers/centers-initiatives/program-on-financial-stability/metrick-schmelzing-paper-and-database)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-01-edition/)</font>
+```
+800+ banking crises and interventions from 1257 to 2019 with descriptions of type of crisis.
+```
 
 [Coins in French wallets](https://data.mendeley.com/datasets/f257j67ym6)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-05-26-edition/)</font>
@@ -402,10 +518,35 @@ Datasets of 36k+ third-party domains and associated web trackers. From DuckDuckG
 Dataset of coins in French wallets from 2002 to 2011. Sampled 22.5k people. From Euro Spatial Diffusion Observatory.
 ```
 
+[Collective bargaining](https://www.fmcs.gov/resources/documents-and-data/#tab-d3d7f5344cef9bab4d3)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-26-edition/)</font>
+```
+U.S. Federal Mediation and Concilation Service's survey via Form F-7, when employees and employers modify or end collectively bargained contracts.
+```
+
 [Economics papers dataset](https://github.com/bldavies/nberwp)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-07-14-edition/)</font>
 ```
 Dataset of 29k+ articles by the National Bureau of Economic Research (NBER).
+```
+
+[Foreign commerce interventions](https://www.globaltradealert.org/data_extraction)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-19-edition/)</font>
+```
+Dataset of 33k+ interventions (subsidies, export quotas, tariffs, etc.) placed on foreign countries.
+```
+
+[Pension plans](https://publicplansdata.org/public-plans-database/download-full-data-set/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-12-edition/)</font>
+```
+Public Plans Data's datasets about pension plans over two decades. 
+```
+
+[Personal income](https://apps.bea.gov/regional/downloadzip.cfm)
+<font size="1">- Article: [article](https://www.bea.gov/news/2021/personal-income-county-and-metropolitan-area-2020)</font><br/>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-01-edition/)</font>
+```
+U.S. Bureau of Economic Analysis has county-level estimates of personal income from 1969 to 2020.
 ```
 
 ### Education
@@ -442,6 +583,14 @@ Dataset of food-related greenhouse gas (GHG) emissions from 1990 to 2015.
 Dataset of wind turbines offshore from 14 countries between 2015-2019.
 ```
 
+### Entertainment
+
+[Board Game Ratings](https://boardgamegeek.com/wiki/page/BGG_XML_API2)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-09-edition/)</font>
+```
+BoardGameGeek's 1M+ dataset on board game ratings.
+```
+
 ### Food
 
 [Agricultural census](https://quickstats.nass.usda.gov/?source_desc=CENSUS)  
@@ -450,10 +599,23 @@ Dataset of wind turbines offshore from 14 countries between 2015-2019.
 Census of agricultura commodities provided by USDA.
 ```
 
+[Chocolate bar reviews](http://flavorsofcacao.com/chocolate_database.html)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-12-edition/)</font>
+```
+Manhattan Chocolate Society's 2.5k+ reviews of chocolate bars and details on each chocolate.
+```
+
 [NYPL Menus](http://menus.nypl.org/data)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2015-11-25-edition/)</font>
 ```
 Dataset of menus provided by the New York Public Library from 1850s to present.
+```
+
+[Salmonella DNA](https://www.ncbi.nlm.nih.gov/pathogens/pathogens_help/#data-retrieval)
+<font size="1">- Article: [ProPublica](https://www.propublica.org/article/how-propublica-used-genomic-sequencing-data-to-track-an-ongoing-salmonella-outbreak)</font>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-17-edition/)</font>
+```
+Salmonella DNA dataset, bioinformatics and analyzing salmonella DNA data, from National Center for Biotechnology Information.
 ```
 
 ### Government/Politics
@@ -490,6 +652,12 @@ Dataset of congressional scandals and votes/donors responses between 1980 and 20
 Dataset of 2020 election emails by Princeton. Requires request for access.
 ```
 
+[Corpus of political emails (2nd)](https://createsend.com/t/t-97F63A7D578A8F0B2540EF23F30FEDED) [(link 2)](https://political-emails.herokuapp.com/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-19-edition/)</font>
+```
+More political emails; 100k+ political emails sent to an email.
+```
+
 [Electoral system design (Parliament)](https://www.idea.int/data-tools/data/electoral-system-design)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-10-edition/)</font>
 ```
@@ -500,6 +668,12 @@ Dataset of lower-house parliamentarians across 1.3k+ elections in 200+ countries
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-02-24-edition/)</font>
 ```
 Dataset of foreign ministers between 1789 and 2010s.
+```
+
+[House committee witnesses](https://www.rmc.edu/departments/political-science/faculty/lauren-bell/dataset-information)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-02-edition/)</font>
+```
+Dataset of 435k+ people who testified before the U.S. House of Representatives betwee n 1971 and 2016.
 ```
 
 [Infrastructure spending](https://www.bea.gov/research/papers/2020/measuring-infrastructure-bureau-economic-analysis-national-economic-accounts)  
@@ -537,6 +711,12 @@ Dataset of Spanish pardons since 1996 w/ 10k+ pardons/commutations.
 Dataset of policy text used for AI/ML models by Mercatus Center.
 ```
 
+[Political redistricting, dicennial](https://redistrictingdatahub.org/data/about-our-data/) [(other data)](https://redistricting.lls.edu/mapdownload/?sortby=-updated&page=1)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-26-edition/)</font>
+```
+Redistricting Data Hub's datasets on redrawing legislative maps.
+```
+
 [Polling of Opinions in Europe](https://github.com/filipvanlaenen/eopaod)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-01-27-edition/)</font>
 ```
@@ -549,10 +729,23 @@ Dataset of opinion polling in 34 countries of Europe.
 Dataset by FairVote. Shows dataset on results of ranked choice vote elections from 2001 to present.
 ```
 
+[Trump Travel Ban Impacts](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/presidential-proclamation-archive/presidential-proclamation9645.html?wcmmode=disabled) [(other)](https://docs.google.com/spreadsheets/d/11w02tTBHguxfQljb2--fN-c3kEaiSpHhnpW6CYkBgQY/edit#gid=135755090)  
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-09-edition/)</font>
+```
+Dataset of people affected by Trump's travel ban in 2017. One dataset from State Department and other is anonymized dataset.
+```
+
 [Union elections (2010+)](https://www.nlrb.gov/reports/graphs-data/recent-election-results)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-05-05-edition/)</font>  
 ```
 Dataset of National Labor Relations Board (NLRB) database of thousands of union election information on individuals and votes.
+```
+
+[Working hours over time](https://twitter.com/RasmussenMagnus/status/1465629029982158848)
+<font size="1">- Data: [data](https://www.dropbox.com/s/ie1zvkr7iht2i1j/public_workingtimedata.dta?dl=0)<br/>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-22-edition/)</font>
+```
+Regulation of workers' total work hours since 1789.
 ```
 
 ### Healthcare
@@ -575,6 +768,12 @@ Datasets of human brain under various stimuli.
 Dataset of medical abbreviations and acronyms. 104k+ abbreviations/acronyms to 170k+ meaning.
 ```
 
+[Medical drug abbreviations](https://data.mendeley.com/datasets/9nmgzttxhm/1)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-05-edition/)</font>
+```
+International Drug Dictionary with over 450k+ entries.
+```
+
 [Nursing home staffing](https://data.cms.gov/browse?q=daily+nurse+staffing)  
 <font size="1">- [NYTimes](https://www.nytimes.com/2021/03/13/business/nursing-homes-ratings-medicare-covid.html)</font>  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-17-edition/)</font>
@@ -595,12 +794,36 @@ Dataset of state and national figures on outpatient prescriptions, units, and re
 Dataset of closing information about rural hospitals in the U.S.
 ```
 
+[Tobacco habits](https://cancercontrol.cancer.gov/brp/tcrb/tus-cps/questionnaires-data)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-22-edition/)</font>
+```
+National Cancer Institute's report of questionnaire responses for tobacco habits.
+```
+
+[Toothbrush usage](https://data.mendeley.com/datasets/hx5kkkbr3j/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-22-edition/)</font>
+```
+Data on 120 toothbrushing sessions.
+```
+
 ### Historical
+
+[1918 flu pandemic mortality](https://osf.io/njghd/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-29-edition/)</font>
+```
+Data on city/year mortality during the 1918 flu pandemic in 70 U.S. cities.
+```
 
 [Canadian Political Candidates (1867-2019)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ABFNSQ)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-07-14-edition/)</font>
 ```
 Dataset from 1867 to 2019 of political candidates in Canada and Ontario.
+```
+
+[Congressional slaveholders](https://github.com/washingtonpost/data-congress-slaveowners/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-12-edition/)</font>
+```
+Washington Post's dataset on 1,715 members of U.S. Congress who were slaveholders.
 ```
 
 [Lynching Datasets (1880s-1910s)](http://people.uncw.edu/hinese/HAL/HAL%20Web%20Page.htm)  
@@ -622,6 +845,18 @@ Dataset of 166k+ post offices operating in the U.S. from 1639 to 2000.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-10-edition/)</font>
 ```
 Dataset of estimates of number of building units/structures in U.S. historically from 1810 to 2015.
+```
+
+[Timezones over time](https://www.iana.org/time-zones)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-10-edition/)</font>
+```
+Time Zone Database represents 120 years+ of history of local time and reports changes made by political bodies, etc.
+```
+
+[Whaling](https://whalinghistory.org/databases/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-26-edition/)</font>
+```
+Historical datasets on whaling - voyages, logbooks, crew lists
 ```
 
 [Witch trials in Europe](https://github.com/JakeRuss/witch-trials)  
@@ -698,7 +933,66 @@ Dataset of Wikipedia article clicks.
 Dataset of Wikipedia page rank/importance.
 ```
 
+### Military
+
+[Joint Military Exercises](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HXQFHU)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-05-edition/)</font>
+```
+Dataset of Joint Military Exercises from 1977 to 2016.
+```
+
+### Mining and natural resources
+
+[Gas storage (European)](https://agsi.gie.eu/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-26-edition/)</font>
+```
+Gas Infrastructure Europe's data on daily fuel storage levels at its member facilities in Europe.
+```
+
+[Mineral production (U.S.)](https://www.usgs.gov/centers/national-minerals-information-center/state-minerals-statistics-and-information); [(by country)](https://www.usgs.gov/centers/nmic/international-minerals-statistics-and-information), [(by commodity)](https://www.usgs.gov/centers/nmic/commodity-statistics-and-information)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-17-edition/)</font>
+```
+U.S. Geological Survey (USGS) National Minerals Information Center dataset about mineral production, by state in U.S., country, and commodity.
+```
+
+### People and people surveys
+
+[Country leader birthplaces](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FYUS575)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-15-edition/)</font>
+```
+Birthplaces and ethnicities of 1k leaders of 177 countries from 1989 to 2020.
+```
+
+[Mortality statistics](https://wonder.cdc.gov/mcd-icd10-provisional.html)
+<font size="1">- Details: [link](https://wonder.cdc.gov/wonder/help/mcd-provisional.html)<br/>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-15-edition/)</font>
+```
+CDC provisional U.S. mortality statistics from 2018 to near-present, based on death certificates.
+```
+
+### Religion
+
+[Religious congregations](https://www.thearda.com/Archive/NCS.asp)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-29-edition/)</font>
+```
+National Congregations Study, a survey to collect data on religion congregations in the U.S.
+```
+
+### Research
+
+[Publishers and editors relationships](https://github.com/andreaspacher/openeditors)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-12-edition/)</font>
+```
+Open Editors project with a dataset of half a million relationships between publishers and editors of scholarly journals.
+```
+
 ### Retail
+
+[Bandcamp sales](https://components.one/datasets/bandcamp-sales)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-15-edition/)</font>
+```
+Dataset of 1M sales on the Bandcamp platform in a few weeks in 2020.
+```
 
 [Gun Dealer Inspection Reports (2015-2017)](https://projects.thetrace.org/inspections/)  
 <font size="1">- [More details](https://www.thetrace.org/2021/05/atf-inspection-records-gun-stores-guide/)</font>  
@@ -714,7 +1008,17 @@ Database of ATF inspection reports from 2015 to 2017.
 Concealed carry gun license database
 ```
 
+[Ethereum NFT sales](https://www.kaggle.com/simiotic/ethereum-nfts)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-10-edition/)</font>
+```
+Dataset spans sales from April-September 2021 across 8,000 NFT purchases on the Ethereum blockchain.
+```
 
+[Makeup (foundation shades)](https://github.com/the-pudding/data/tree/master/foundation-names)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-05-edition/)</font>
+```
+Foundation shades of two cosmetic retailers, over 6.8k foundational shades.
+```
 
 [Retail Gasoline Prices](https://www.eia.gov/petroleum/gasdiesel/gas_proc-methods.php)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-06-09-edition/)</font>
@@ -757,7 +1061,32 @@ Dataset of 13.2M patents and applications since 1976.
 Dataset of cell towers collected by crowdsourcing.
 ```
 
+[Chinese technology expansion](https://chinatechmap.aspi.org.au/#/data/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-02-edition/)</font>
+```
+Dataset of 3.9k connections with Chinese technology companies overseas.
+```
+
+[Radio on the internet](https://backups.radio-browser.info/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-12-edition/)</font>
+```
+Dataset on 29k+ radio stations across 200+ countries and 280+ languages.
+```
+
 ### Television
+
+["Damn fine coffee" (Twin Peaks)](https://data.world/judkacag/the-coffees-of-twin-peaks)
+<font size="1">- Visualization: [data-is-plural](https://public.tableau.com/app/profile/judit.bekker/viz/TheCoffeesofTwinPeaks/TheCoffeesofTwinPeaks)</font><br/>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-10-edition/)</font>
+```
+Dataset of every coffee drank in Twin Peaks across 3 seasons.
+```
+
+[Michael Scott-isms](https://docs.google.com/spreadsheets/d/13U09FgnxeW9UyCg7Xwffxj06W47ikUZJng16ukF9mQs/edit#gid=0)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-01-edition/)</font>
+```
+200+ Michael Scott verbal flubs in the show 'The Office'.
+```
 
 [Survivor data](https://gradientdescending.com/survivor-data-from-the-tv-series-in-r/)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-05-05-edition/)</font>
@@ -777,7 +1106,19 @@ Dataset of city signs and where they point to. Gathered using Google Maps script
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-05-12-edition/)</font>
 
 
-### Weather/Climate
+### Weather/Climate/Pollution
+
+[Carbon credits](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-17-edition/)</font>
+```
+Voluntary Registry Offsets Database, a dataset of carbon credits / carbon offset projects by four registries.
+```
+
+[Climate funding](https://data.europa.eu/data/datasets/erasmus-mobility-statistics-2014-2019-v2?locale=en)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-09-edition/)</font>
+```
+Dataset on the funding/financial actions against climate change.
+```
 
 [Disasters](https://public.emdat.be/)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-17-edition/)</font>
@@ -810,10 +1151,23 @@ Dataset of lightning strikes per km2 on daily/monthly frequencies. From World Wi
 Dataset based on measurements of thousands of rain gauges throughout UK and Ireland from 1677 to 1960.
 ```
 
+[Toxics Release Inventory](https://www.epa.gov/toxics-release-inventory-tri-program)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-11-10-edition/)</font>
+```
+Dataset of EPA's Toxics Release Inventory for air pollution.
+```
+
 [Water Event Database, International (1948-2008)](https://transboundarywaters.science.oregonstate.edu/content/international-water-event-database)    
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-07-07-edition/)</font>
 ```
 Dataset of 6.4k historical international water relations events from 1948 to 2008. From Oregon State University.
+```
+
+[Water wells in California](https://github.com/datadesk/groundwater-analysis)
+<font size="1">- Article: [link](https://www.latimes.com/projects/california-farms-water-wells-drought/)<br/>
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-22-edition/)</font>
+```
+Datasets on water wells, groundwater, and household water supply in California for 100+ years.
 ```
 
 ### World Data
@@ -868,6 +1222,18 @@ Dataset of bats brought into U.S. from 2016 to 2017.
 Dataset of images of 13k variety of dried beans.
 ```
 
+[Bee and Honey](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Bee_and_Honey/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-01-05-edition/)</font>
+```
+USDA data on honeybee colonies and their production of honey, since 2016.
+```
+
+[Birds in North America](https://feederwatch.org/explore/raw-dataset-requests/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-08-edition/)</font>
+```
+FeederWatch dataset on November-April survey of birds from thousands of volunteers.
+```
+
 [Cheetah commerce](https://data.mendeley.com/datasets/84k92j4n3y)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-03-edition/)</font>
 ```
@@ -884,6 +1250,12 @@ Dataset/scraping instructions for O'Reilly illustrations of 1k+ animals.
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-04-07-edition/)</font>
 ```
 Dataset of details on fish in the Great Lakes. By Great Lakes Fishery Commission.
+```
+
+[Forests in Europe](https://figshare.com/articles/dataset/European_Primary_Forest_Database/13194095/2)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-01-edition/)</font>
+```
+18k+ patches of primary forests throughout 33 countries in Europe.
 ```
 
 [Global Virome in One Network (VIRION)](https://www.viralemergence.org/virion)  
@@ -906,6 +1278,12 @@ Dataset of genomics relaating to fermented foods.
 Dataset of 7.2km road survey. Roadkill data from Tropical Andes.
 ```
 
+[Root characteristics of plant species](https://roots.ornl.gov/)
+<font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-12-29-edition/)</font>
+```
+Oak Ridge National Laboratory's root characteristics of 4.5k plant species.
+```
+
 [Soil datasets](https://isric.org/explore/soil-geographic-databases)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-03-03-edition/)</font>
 ```
@@ -925,7 +1303,6 @@ Dataset of spider taxonomy.
 ```
 Dataset of variety of soil properties from across the globe.
 ```
-
 
 Tree species  
 - [basal tree area (circa 2000s)](https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0013)  
