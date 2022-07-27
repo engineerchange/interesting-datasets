@@ -152,6 +152,12 @@ Dataset from textual analysis of 11 firms in 81 countries and various themes of 
 Dataset providing semi-structured data relationships of words across different languages.
 ```
 
+[GDELT](https://www.gdeltproject.org/)
+<font size="1">-</font>
+```
+Dataset providing large newspaper texts pulled by Google.
+```
+
 [Loanwords](https://wold.clld.org/)
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2022-02-02-edition/)</font>
 ```
