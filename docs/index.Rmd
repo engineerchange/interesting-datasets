@@ -205,7 +205,7 @@ Dataset of mail sent from 1748 to 1752. Names, addresses, weight, fee.
   
 [Wikimedia data dumps](https://dumps.wikimedia.org/other/pageviews/)  
 ```
-Dataset of data relating to wikipedia statistics. See [FAQ for wmflabs](https://pageviews.wmcloud.org/faq/).  
+Dataset of data relating to wikipedia statistics. See [FAQ for wmflabs](https://pageviews.wmcloud.org/faq/). R has a function that does this [Wikipediatrend](https://cran.r-project.org/web/packages/wikipediatrend/index.html).  
 ```
 
 ## By Topic {.tabset}
