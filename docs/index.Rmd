@@ -202,6 +202,11 @@ Large datasets of reservations made on RIDB/Recreation.gov between 2006 to prese
 ```
 Dataset of mail sent from 1748 to 1752. Names, addresses, weight, fee.
 ```
+  
+[Wikimedia data dumps](https://dumps.wikimedia.org/other/pageviews/)  
+```
+Dataset of data relating to wikipedia statistics. See [FAQ for wmflabs](https://pageviews.wmcloud.org/faq/).  
+```
 
 ## By Topic {.tabset}
 
