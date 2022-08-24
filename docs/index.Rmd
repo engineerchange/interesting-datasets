@@ -454,7 +454,7 @@ Dataset of public mass shootings in the U.S. with extensive details from 1966 to
 [Persons of Interest](https://opensanctions.org/docs/usage/)  
 <font size="1">- Source: [data-is-plural](https://www.data-is-plural.com/archive/2021-09-08-edition/)</font>
 ```
-Dataset of persons and copmpanies of political, criminal, or economic interest.
+Dataset of persons and companies of political, criminal, or economic interest.
 ```
 
 Police misconduct complaints  
